@@ -1,1 +1,1 @@
-This is where I'm going to keeep my notes. YAY
+https://curriculeon.github.io/Curriculeon/lectures/terminal/bash/commandline-walkthrough/content.html
